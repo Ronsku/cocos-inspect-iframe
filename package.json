@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "http-server ./wrapper -p 5000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
